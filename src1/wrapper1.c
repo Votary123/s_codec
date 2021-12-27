@@ -1,2 +1,4 @@
-
-1
+main()
+{
+	printf("Welcome to Github\n");
+}
